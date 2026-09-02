@@ -1,0 +1,4 @@
+site,approved_budget,committed_cost,actual_cost,forecast_remaining,estimate_at_completion,approved_changes,pending_change_orders,expedite_exposure,potential_schedule_exposure,originating_risk_or_change,previous_eac
+Site Alpha,118000000,80500000,39200000,77500000,116700000,700000,250000,0,150000,Low-level installation productivity risk,116900000
+Site Beta,126000000,87200000,42100000,84200000,126300000,900000,600000,450000,1800000,BETA-R1 transformer recovery risk,125800000
+Site Gamma,132000000,94800000,44700000,94700000,139400000,1200000,2000000,500000,4900000,GAMMA-CHG-001 engineering design change,134400000

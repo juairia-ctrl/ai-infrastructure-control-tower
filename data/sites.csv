@@ -1,0 +1,4 @@
+site,target_launch,reported_health,program_owner,business_priority,last_review_date,previous_health
+Site Alpha,2027-02-15,GREEN,Jordan Lee,Standard,2026-08-26,GREEN
+Site Beta,2027-01-15,GREEN,Morgan Chen,High,2026-08-26,GREEN
+Site Gamma,2027-03-15,YELLOW,Riley Patel,Critical,2026-08-26,YELLOW

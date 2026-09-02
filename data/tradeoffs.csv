@@ -1,0 +1,4 @@
+site,equipment,supplier_capacity_available,need_by_date,launch_date,remaining_float_days,critical_path_impact,business_priority,mitigation_options,recommendation
+Site Beta,Transformer,2,2026-12-30,2027-01-15,3,High,High,Expedite; reallocate later site equipment; supplier recovery,Reserve one slot unless next recovery gate restores at least 7 days of float
+Site Gamma,Transformer,2,2027-02-06,2027-03-15,-17,Critical,Critical,Approve change order; expedite; resequence commissioning,Reserve one slot because launch is already exposed and alternatives require validation
+Future Delta,Transformer,2,2027-05-20,2027-07-15,25,Medium,Standard,Capacity reservation; alternate supplier qualification,Defer final allocation pending Beta recovery because float and alternatives are stronger

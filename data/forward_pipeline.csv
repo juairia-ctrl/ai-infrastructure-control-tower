@@ -1,0 +1,9 @@
+site,target_capacity_mw,target_ready_date,design_type,project_confidence,equipment_category,expected_quantity,supplier,supplier_lead_time_days,need_by_date,order_by_date
+Future Delta,48,2027-07-15,Reference A,COMMITTED,Transformer,2,GridForge,260,2027-05-20,2026-09-02
+Future Delta,48,2027-07-15,Reference A,COMMITTED,Switchgear,8,VoltEdge,210,2027-05-30,2026-11-01
+Future Epsilon,64,2027-09-01,Reference B,PROBABLE,Transformer,3,GridForge,275,2027-07-05,2026-10-03
+Future Epsilon,64,2027-09-01,Reference B,PROBABLE,Generator,6,GenAxis,220,2027-07-12,2026-12-04
+Future Zeta,40,2027-11-15,Reference A,EARLY PIPELINE,Transformer,2,GridForge,300,2027-09-01,2026-11-05
+Future Zeta,40,2027-11-15,Reference A,EARLY PIPELINE,UPS,4,PowerCore,190,2027-09-15,2027-03-09
+Future Eta,72,2028-01-20,Reference C,PROBABLE,Cooling Distribution Unit,12,ThermaLoop,240,2027-11-10,2027-03-15
+Future Eta,72,2028-01-20,Reference C,PROBABLE,Busway,10,ConduitWorks,210,2027-11-20,2027-04-24

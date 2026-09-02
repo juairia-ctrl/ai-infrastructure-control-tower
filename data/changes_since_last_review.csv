@@ -1,0 +1,6 @@
+site,change_type,description,impact,previous_value,current_value,owner
+Site Beta,Milestone moved,Transformer factory test moved later,+5 days,2026-12-03,2026-12-08,Drew Kim
+Site Beta,Health changed,Supplier calculated risk moved Green to Yellow,Early warning triggered,GREEN,YELLOW,Drew Kim
+Site Gamma,Cost forecast,EAC increased after engineering change,+$5.0M,$134.4M,$139.4M,Riley Patel
+Site Gamma,Float dropped,Ready for Service float moved below zero,Launch exposed,0 days,-15 days,Riley Patel
+Site Alpha,Mitigation completed,Drawing clarification closed,Low-level risk reduced,Open,Closed,Avery Stone

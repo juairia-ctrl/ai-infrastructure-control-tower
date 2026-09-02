@@ -1,0 +1,7 @@
+metric,authoritative_source_field,metric_owner,refresh_cadence,data_quality_rule,escalation_owner
+Target Launch,sites.target_launch,Portfolio PMO,Weekly,Date must be present and later than current review date,Program Director
+Current Forecast Date,milestones.current_forecast_date,Workstream Owner,Weekly,Forecast date must be present for active critical-path milestones,Portfolio PMO
+Need-By Date,milestones.need_by_date,Integrated Schedule Owner,Weekly,Need-by date must be present for critical-path milestones,Program Controls Lead
+Supplier Status,suppliers.supplier_reported_status,Supplier Manager,Weekly,Update cannot be older than 7 days for critical equipment,Supply Chain Director
+Cost Exposure,costs.pending_change_orders + expedite_exposure + potential_schedule_exposure,Cost Controls Owner,Weekly,Exposure must link to originating risk or change,Finance Partner
+Decision Deadline,decisions.decision_deadline,Decision Owner,Weekly,Open decisions need an owner and future deadline,Executive Sponsor

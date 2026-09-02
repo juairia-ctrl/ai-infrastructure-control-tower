@@ -1,0 +1,37 @@
+site,workstream,milestone,baseline_date,current_forecast_date,need_by_date,critical_path,dependency,owner,reported_status,last_updated,previous_forecast_date
+Site Alpha,Engineering,Design Maturity / Release,2026-09-15,2026-09-15,2026-09-20,Yes,Owner requirements complete,Avery Stone,GREEN,2026-08-31,2026-09-15
+Site Alpha,Supply Chain,Long-Lead Equipment Release,2026-09-25,2026-09-25,2026-09-30,Yes,Design release,Avery Stone,GREEN,2026-08-31,2026-09-25
+Site Alpha,Supply Chain,Purchase Order,2026-10-02,2026-10-02,2026-10-05,Yes,Equipment release,Sam Rivera,GREEN,2026-08-31,2026-10-02
+Site Alpha,Supply Chain,Supplier Manufacturing Start,2026-10-20,2026-10-20,2026-10-28,Yes,PO acceptance,Sam Rivera,GREEN,2026-08-31,2026-10-20
+Site Alpha,Supply Chain,Manufacturing Progress Milestone,2026-11-20,2026-11-20,2026-11-30,Yes,Manufacturing start,Sam Rivera,GREEN,2026-08-31,2026-11-20
+Site Alpha,Supply Chain,Factory Acceptance Test,2026-12-20,2026-12-20,2027-01-02,Yes,Manufacturing progress,Sam Rivera,GREEN,2026-08-31,2026-12-20
+Site Alpha,Supply Chain,Ready to Ship,2027-01-05,2027-01-05,2027-01-12,Yes,FAT complete,Sam Rivera,GREEN,2026-08-31,2027-01-05
+Site Alpha,Supply Chain,Site Delivery,2027-01-12,2027-01-12,2027-01-20,Yes,Ready to ship,Sam Rivera,GREEN,2026-08-31,2027-01-12
+Site Alpha,Construction,Installation,2027-01-24,2027-01-24,2027-02-01,Yes,Site delivery,Taylor Brooks,GREEN,2026-08-31,2027-01-24
+Site Alpha,Commissioning,Commissioning Start,2027-02-02,2027-02-02,2027-02-06,Yes,Installation,Taylor Brooks,GREEN,2026-08-31,2027-02-02
+Site Alpha,Commissioning,Commissioning Complete,2027-02-10,2027-02-10,2027-02-13,Yes,Commissioning start,Taylor Brooks,GREEN,2026-08-31,2027-02-10
+Site Alpha,Operations,Ready for Service,2027-02-15,2027-02-12,2027-02-15,Yes,Commissioning complete,Jordan Lee,GREEN,2026-08-31,2027-02-15
+Site Beta,Engineering,Design Maturity / Release,2026-08-25,2026-08-27,2026-08-30,Yes,Owner requirements complete,Casey Nguyen,GREEN,2026-08-30,2026-08-25
+Site Beta,Supply Chain,Long-Lead Equipment Release,2026-09-01,2026-09-03,2026-09-05,Yes,Design release,Casey Nguyen,GREEN,2026-08-30,2026-09-01
+Site Beta,Supply Chain,Purchase Order,2026-09-08,2026-09-09,2026-09-10,Yes,Equipment release,Drew Kim,GREEN,2026-08-30,2026-09-08
+Site Beta,Supply Chain,Supplier Manufacturing Start,2026-09-22,2026-10-01,2026-10-02,Yes,PO acceptance,Drew Kim,GREEN,2026-08-30,2026-09-26
+Site Beta,Supply Chain,Manufacturing Progress Milestone,2026-10-18,2026-10-30,2026-11-01,Yes,Manufacturing start,Drew Kim,GREEN,2026-08-30,2026-10-23
+Site Beta,Supply Chain,Factory Acceptance Test,2026-11-28,2026-12-08,2026-12-12,Yes,Manufacturing progress,Drew Kim,GREEN,2026-08-30,2026-12-03
+Site Beta,Supply Chain,Ready to Ship,2026-12-15,2026-12-20,2026-12-23,Yes,FAT complete,Drew Kim,GREEN,2026-08-30,2026-12-18
+Site Beta,Supply Chain,Site Delivery,2026-12-22,2026-12-27,2026-12-30,Yes,Ready to ship,Drew Kim,GREEN,2026-08-30,2026-12-25
+Site Beta,Construction,Installation,2027-01-02,2027-01-04,2027-01-06,Yes,Site delivery,Alex Reed,GREEN,2026-08-31,2027-01-02
+Site Beta,Commissioning,Commissioning Start,2027-01-06,2027-01-08,2027-01-09,Yes,Installation,Alex Reed,GREEN,2026-08-31,2027-01-06
+Site Beta,Commissioning,Commissioning Complete,2027-01-12,2027-01-14,2027-01-14,Yes,Commissioning start,Alex Reed,GREEN,2026-08-31,2027-01-12
+Site Beta,Operations,Ready for Service,2027-01-15,2027-01-15,2027-01-15,Yes,Commissioning complete,Morgan Chen,GREEN,2026-08-31,2027-01-15
+Site Gamma,Engineering,Design Maturity / Release,2026-09-10,2026-09-28,2026-09-15,Yes,Owner requirement change,Priya Shah,YELLOW,2026-08-31,2026-09-18
+Site Gamma,Supply Chain,Long-Lead Equipment Release,2026-09-20,2026-09-29,2026-09-22,Yes,Design release,Priya Shah,YELLOW,2026-08-31,2026-09-23
+Site Gamma,Supply Chain,Purchase Order,2026-09-28,2026-09-28,2026-09-30,Yes,Equipment release,Noah Wright,GREEN,2026-08-28,2026-09-28
+Site Gamma,Supply Chain,Supplier Manufacturing Start,2026-10-18,2026-10-28,2026-10-25,Yes,PO change order,Noah Wright,YELLOW,2026-08-28,2026-10-21
+Site Gamma,Supply Chain,Manufacturing Progress Milestone,2026-11-22,2026-12-08,2026-11-30,Yes,Manufacturing start,Noah Wright,YELLOW,2026-08-28,2026-11-28
+Site Gamma,Supply Chain,Factory Acceptance Test,2027-01-05,2027-01-27,2027-01-12,Yes,Manufacturing progress,Noah Wright,YELLOW,2026-08-28,2027-01-13
+Site Gamma,Supply Chain,Ready to Ship,2027-01-22,2027-02-12,2027-01-28,Yes,FAT complete,Noah Wright,YELLOW,2026-08-28,2027-01-29
+Site Gamma,Supply Chain,Site Delivery,2027-02-01,2027-02-23,2027-02-06,Yes,Ready to ship,Noah Wright,YELLOW,2026-08-28,2027-02-08
+Site Gamma,Construction,Installation,2027-02-10,2027-03-03,2027-02-20,Yes,Site delivery,Lena Ortiz,YELLOW,2026-08-30,2027-02-17
+Site Gamma,Commissioning,Commissioning Start,2027-02-22,2027-03-14,2027-02-28,Yes,Installation,Lena Ortiz,YELLOW,2026-08-30,2027-03-01
+Site Gamma,Commissioning,Commissioning Complete,2027-03-08,2027-03-28,2027-03-10,Yes,Commissioning start,Lena Ortiz,YELLOW,2026-08-30,2027-03-15
+Site Gamma,Operations,Ready for Service,2027-03-15,2027-03-30,2027-03-15,Yes,Commissioning complete,Riley Patel,YELLOW,2026-08-30,2027-03-18
